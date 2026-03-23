@@ -4,7 +4,7 @@
 
 The game focuses on timing, reflexes, and rhythm, offering quick gameplay sessions that are easy to learn but hard to master.
 
-<img src="Screenshots/DinoRun 1.png" width="500"/>
+<img src="Screenshots/DinoRun 1.jpg" width="500"/>
 
 ## 🎮 Gameplay
 
